@@ -1,4 +1,4 @@
-classes = 3
+classes = 1
 train = data/train.txt
 valid = data/validation.txt
 names = data/classes.names
