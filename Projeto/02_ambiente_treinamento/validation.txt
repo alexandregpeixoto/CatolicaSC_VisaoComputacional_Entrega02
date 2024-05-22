@@ -1,0 +1,3 @@
+/content/drive/MyDrive/Pos_Catolica/Visao_Computacional/Projeto/Ambiente_Treinamento/data/validation/placa-reg-03.png
+/content/drive/MyDrive/Pos_Catolica/Visao_Computacional/Projeto/Ambiente_Treinamento/data/validation/placa-adv-03.png
+/content/drive/MyDrive/Pos_Catolica/Visao_Computacional/Projeto/Ambiente_Treinamento/data/validation/placa-ind-03.png

@@ -1,0 +1,6 @@
+/content/drive/MyDrive/Pos_Catolica/Visao_Computacional/Projeto/Ambiente_Treinamento/data/train/placa-reg-01.png
+/content/drive/MyDrive/Pos_Catolica/Visao_Computacional/Projeto/Ambiente_Treinamento/data/train/placa-reg-02.png
+/content/drive/MyDrive/Pos_Catolica/Visao_Computacional/Projeto/Ambiente_Treinamento/data/train/placa-adv-01.png
+/content/drive/MyDrive/Pos_Catolica/Visao_Computacional/Projeto/Ambiente_Treinamento/data/train/placa-adv-02.png
+/content/drive/MyDrive/Pos_Catolica/Visao_Computacional/Projeto/Ambiente_Treinamento/data/train/placa-ind-01.png
+/content/drive/MyDrive/Pos_Catolica/Visao_Computacional/Projeto/Ambiente_Treinamento/data/train/placa-ind-02.png
